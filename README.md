@@ -26,7 +26,12 @@ Local LLM chatbot (Ollama) with voice input/output, emotion detection &amp; pers
 ---
 
 ## 📂 Project Structure
-
+main.py # Main chatbot logic
+memory.py # Memory system
+emotion.py # Emotion detection
+memory.json # Stored data
+tts_test.py # Text-to-speech test
+voice_test.py # Voice input test
 
 ---
 
