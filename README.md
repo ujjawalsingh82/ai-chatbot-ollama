@@ -26,3 +26,19 @@ Local LLM chatbot (Ollama) with voice input/output, emotion detection &amp; pers
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Install Ollama
+Download from: https://ollama.com
+
+### 2. Run LLM model
+```bash
+ollama run llama3
+
+pip install -r requirements.txt
+
+python main.py
